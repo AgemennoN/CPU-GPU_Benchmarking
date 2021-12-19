@@ -9,6 +9,7 @@ V1 added:
 
 A Cube object rotates 90 degree around its own center first in CPU then in GPU. 
 
-![image](https://user-images.githubusercontent.com/81033171/146693963-509b351e-93d4-4d2c-bbdb-4bf4123950e4.png)
+![image](https://user-images.githubusercontent.com/81033171/146694100-de68b6ee-bc9c-4b1f-8825-6fe6cabe6efd.png)
+
 
 
