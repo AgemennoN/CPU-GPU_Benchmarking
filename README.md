@@ -9,8 +9,14 @@ V1 added:
 
 A Cube object rotates 90 degree around its own center first in CPU then in GPU. 
 
-![image](https://user-images.githubusercontent.com/81033171/146694100-de68b6ee-bc9c-4b1f-8825-6fe6cabe6efd.png)
 
-![proje](https://user-images.githubusercontent.com/81033171/146754263-4a6c9556-f206-4bee-9ae7-b5f9e11ac84e.png)
+![proje](https://user-images.githubusercontent.com/81033171/147414905-8469aa9d-9941-4195-b722-0c6b72154763.png)
+Figure 1: Rotation
+
+![V1 n=16 Terminal_output ](https://user-images.githubusercontent.com/81033171/147414896-c3653497-58e3-4a3b-86b7-2d292b8351ae.png)
+Figure 2: V1 n=16 Terminal Output
+
+![V1 n=32 Terminal_output ](https://user-images.githubusercontent.com/81033171/147414897-9b170571-3b75-4dd7-99e9-0951496a79b3.png)
+Figure 3: V1 n=32 Terminal Output
 
 
