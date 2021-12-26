@@ -22,9 +22,7 @@ Figure 1: Rotation
 
 Figure 2: V1 n=16 Terminal Output
 
-
-
-![V1 n=32 Terminal_output ](https://user-images.githubusercontent.com/81033171/147414897-9b170571-3b75-4dd7-99e9-0951496a79b3.png)
+![V1 n=32 Terminal_output ](https://user-images.githubusercontent.com/81033171/147414986-ad06a1e6-4120-4f66-8def-172b7c2cd9fd.png)
 
 Figure 3: V1 n=32 Terminal Output
 
