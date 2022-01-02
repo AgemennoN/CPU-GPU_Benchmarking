@@ -7,15 +7,15 @@ This project is about, drawing a Cube in CPU and rotate it with matrix operation
 
 V1:
 A Cube object rotates 90 degree around its own center first in CPU then in GPU.
+![V1](https://user-images.githubusercontent.com/81033171/147891935-2d30d2f4-ba8e-4937-bb2a-ff6917e243e1.png)
 
-![V1 n=256 Terminal_output](https://user-images.githubusercontent.com/81033171/147654946-d4eb39cd-40f6-450e-93ef-0db36b4c6a03.png)
 
 Figure 1: V1 Terminal Output
 
 V2:
 GPU part of the project is separated in streams that work in concurrently.
+![8Streams test results](https://user-images.githubusercontent.com/81033171/147891937-16562ff2-a056-4747-8b5d-d59cec55c7b1.png)
 
-![V2 n=256 Stream=8 Terminal_output ](https://user-images.githubusercontent.com/81033171/147655292-849d0756-5e6a-48e2-a2cb-11571bef6ee8.png)
 
 Figure 2: V2 Terminal Output
 
